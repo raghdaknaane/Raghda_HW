@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>connect us</title>
+        <link href="{{ url_for('static', filename= 'mystyle1.css')}}" rel="stylesheet">
+ <a href="{{url_for('home_movies')}}"> <img src="/static/movies.png" style="border-radius: 10%;" width="50" height=40" ></a>
+    <a href="{{url_for('add_data')}}"> <img src="/static/add.png" style="border-radius: 10%;" width="40" height="40" ></a>
+    <a href="{{url_for('connect_us')}}"> <img src="/static/connect.jpg" style="border-radius: 10%;" width="50" height="40" ></a>
+    <a href="{{url_for('about_us')}}">  <img src="/static/about.jpg" style="border-radius: 10%;" width="50" height="40" ></a>
+
+</head>
+<body>
+<center>
+    <h2> connect us </h2>
+    <form method="post" action="/add_connect" >
+    <label>Name:</label></br>
+    <input type="text" name="name" required></br>
+    <label>message:</label></br>
+    <textarea type="text" name="message"></textarea></br>
+    <label>email_user:</label></br>
+        <input type="email"></br></br>
+<!--    <textarea type="text" name="email_user"></textarea></br>-->
+    <button type="submit" name="Update">Submit</button>
+    </form>
+</center>
+
+
+</body>
+</html>

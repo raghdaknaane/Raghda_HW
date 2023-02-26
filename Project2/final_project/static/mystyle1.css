@@ -1,0 +1,120 @@
+body {
+    background-color: #fddde6 ;
+    line-height: 200%;
+}
+
+li{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    background-color: #c0c0c0;
+    font-size: 30px;
+}
+
+
+h3{
+    font-size: 22px;
+}
+
+
+button{
+    text-align: center;
+    font-size: 12px;
+    border-radius: 12px;
+    padding: 10px 10px;
+    background-color: #ffddf4;
+    color: black;
+    border: 2px solid black;
+}
+
+textarea {
+
+    max-width: 500%;
+    line-height: 2;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+.rate-area {
+    float: left;
+	border-style: none;
+}
+
+.rate-area:not(:checked) > input {
+    position: absolute;
+	clip: rect(0, 0, 0, 0);
+}
+
+.rate-area:not(:checked) > label {
+    float: right;
+	width: 0.8em;
+	overflow: hidden;
+	white-space: nowrap;
+	cursor: pointer;
+	font-size: 180%;
+	color: #696969;
+}
+
+.rate-area:not(:checked) > label:before {
+    content: "★";
+}
+
+.rate-area > input:checked ~ label {
+	color: gold;
+}
+
+.rate-area:not(:checked) > label:hover,
+.rate-area:not(:checked) > label:hover ~ label {
+	color: gold;
+}
+
+.rate-area > input:checked + label:hover,
+.rate-area > input:checked + label:hover ~ label,
+.rate-area > input:checked ~ label:hover,
+.rate-area > input:checked ~ label:hover ~ label,
+.rate-area > label:hover ~ input:checked ~ label {
+	color: gold;
+}
+
+/* Pagination links */
+.pagination a {
+    color: black;
+    float: center;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+/* Style the active/current link */
+.pagination a.active {
+    background-color: dodgerblue;
+    color: white;
+}
+
+/* Add a grey background color on mouse-over */
+.pagination a:hover:not(.active) {
+    background-color: #d3d3d3;
+}
+
+/*top page*/
+
+.top {
+
+    place-self:end;
+    position:sticky;
+    top: 40px; left: 550px;
+    bottom:20px;
+    margin-top:130vh;
+  /* visual styling */
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #ff69b4;
+    background: #e7feff;
+    border-radius: 100px;
+}
+
+
+@import url(""
