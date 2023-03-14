@@ -1,0 +1,574 @@
+2023-03-07 07:30:06,714 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-07 07:30:20,075 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-07 07:30:20,075 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-07 07:30:34,741 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:30:34,741 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:30:34,741 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:30:47,930 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:30:47,930 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:30:47,930 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:30:47,930 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-07 07:31:01,010 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:01,010 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:01,010 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:01,010 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:01,010 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:14,460 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:14,460 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:14,460 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:14,460 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:14,460 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:14,460 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:33,616 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:31:50,813 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:06,477 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:22,538 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 07:32:35,750 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-07 07:32:48,230 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-07 07:32:48,230 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-07 07:33:03,171 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:33:03,171 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:33:03,171 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:33:34,690 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:33:34,690 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:33:34,690 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:33:34,690 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:34:16,323 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:16,323 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:16,323 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:16,323 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:16,323 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:50,253 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:50,253 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:50,253 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:50,253 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:50,253 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:34:50,253 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:22,387 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:38,240 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-07 07:35:51,171 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-07 07:36:12,311 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-07 07:36:12,311 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-07 07:36:25,311 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-07 07:36:38,422 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-07 07:36:38,422 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-07 07:36:52,936 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:36:52,936 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:36:52,936 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:37:08,096 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:37:08,096 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:37:08,096 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:37:08,096 :INFO: TestFunctional test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-07 07:37:18,506 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:18,506 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:18,506 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:18,506 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:18,506 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:28,827 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:28,827 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:28,827 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:28,827 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:28,827 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:28,827 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:43,484 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:37:58,082 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:10,313 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:22,423 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:36,947 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:38:51,297 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-07 07:48:26,030 :INFO: TestFunctional test_rating_star: Passed!
+2023-03-07 07:48:55,643 :INFO: TestFunctional test_rating_star: Passed!
+2023-03-07 07:48:55,643 :INFO: TestFunctional test_rating_star: Passed!
+2023-03-07 07:57:40,482 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:58:15,092 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-07 07:58:15,092 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023-03-07 11:30:57,348 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 11:31:39,055 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-07 11:31:39,055 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 04:59:55,804 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:00:09,720 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:00:09,720 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:04:12,436 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:04:26,769 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:04:26,769 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:05:32,242 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:08:57,187 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:10:33,015 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:10:47,835 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:10:47,835 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:12:43,770 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:23:48,102 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:24:04,004 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:24:04,004 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:25:46,588 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:25:59,420 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:25:59,420 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:26:59,362 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:27:12,322 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:27:12,322 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 05:27:26,342 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:26,342 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:26,342 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:40,157 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:40,157 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:40,157 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:40,157 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 05:27:52,729 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:27:52,729 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:27:52,729 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:27:52,729 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:27:52,729 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:05,776 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:05,776 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:05,776 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:05,776 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:05,776 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:05,776 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:23,073 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:28:54,494 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:11,007 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:29:27,108 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-12 05:34:15,243 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-12 05:34:28,320 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-12 05:34:28,320 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-12 05:34:43,884 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:34:43,884 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:34:43,884 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:35:15,797 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:35:15,797 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:35:15,797 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:35:15,797 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:36,184 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:36:52,431 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:37:48,956 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-12 05:38:06,399 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-12 05:38:06,399 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-12 05:39:54,838 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-12 05:40:31,762 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-12 05:41:07,573 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-12 05:41:07,573 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-12 05:41:55,231 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:42:27,090 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:42:27,090 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 05:43:12,975 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:43:30,234 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:43:30,234 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-12 05:44:51,749 :INFO: TestAcceptance test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-12 05:45:13,987 :INFO: TestAcceptance test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-12 05:45:13,987 :INFO: TestAcceptance test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-12 05:47:12,289 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-12 05:47:25,920 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-12 05:47:25,920 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-12 05:51:17,659 :CRITICAL: TestSecurity test_existing_username_password: the page not relevance
+2023-03-12 05:51:24,551 :CRITICAL: TestSecurity test_existing_username_password: the page not relevance
+2023-03-12 05:51:24,551 :CRITICAL: TestSecurity test_existing_username_password: the page not relevance
+2023-03-12 05:52:59,088 :INFO: TestSecurity test_existing_username_password: Passed: Movie wasn't successfully added
+2023-03-12 05:53:10,321 :INFO: TestSecurity test_existing_username_password: Passed: Movie wasn't successfully added
+2023-03-12 05:53:10,321 :INFO: TestSecurity test_existing_username_password: Passed: Movie wasn't successfully added
+2023-03-12 05:57:40,777 :INFO: TestSecurity test_existing_username_incorrect_password: Passed
+2023-03-12 05:57:49,746 :INFO: TestSecurity test_existing_username_incorrect_password: Passed
+2023-03-12 05:57:49,746 :INFO: TestSecurity test_existing_username_incorrect_password: Passed
+2023-03-12 06:03:18,159 :INFO: TestSecurity test_existing_username_incorrect_password: Passed
+2023-03-12 06:03:27,365 :INFO: TestSecurity test_existing_username_incorrect_password: Passed
+2023-03-12 06:03:27,365 :INFO: TestSecurity test_existing_username_incorrect_password: Passed
+2023-03-12 06:04:16,974 :INFO: TestSecurity test_incorrect_username_incorrect_password: Passed
+2023-03-12 06:04:25,880 :INFO: TestSecurity test_incorrect_username_incorrect_password: Passed
+2023-03-12 06:04:25,880 :INFO: TestSecurity test_incorrect_username_incorrect_password: Passed
+2023-03-12 06:54:45,196 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-12 06:55:00,341 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-12 06:55:00,341 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-12 07:00:52,682 :INFO: TestFunctional test_rating_star: Passed!
+2023-03-12 07:01:23,186 :INFO: TestFunctional test_rating_star: Passed!
+2023-03-12 07:01:23,186 :INFO: TestFunctional test_rating_star: Passed!
+2023-03-12 07:01:58,023 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-12 07:02:14,589 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-12 07:02:14,589 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-12 07:02:40,711 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-12 07:03:11,811 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-12 07:03:25,939 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-12 07:03:25,939 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-12 07:03:51,564 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-12 07:04:13,333 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-12 07:04:13,333 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-12 07:04:44,493 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-12 07:05:00,620 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-12 07:05:00,620 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 6
+2023-03-12 07:05:22,709 :INFO: TestFunctional test_4_rating_star: Passed!
+2023-03-12 07:05:54,733 :INFO: TestFunctional test_4_rating_star: Passed!
+2023-03-12 07:05:54,733 :INFO: TestFunctional test_4_rating_star: Passed!
+2023-03-12 07:07:52,475 :WARNING: TestFunctional test_1_rating_star: Adding review failed, star rating was not set correctly.
+2023-03-12 07:08:06,655 :WARNING: TestFunctional test_1_rating_star: Adding review failed, star rating was not set correctly.
+2023-03-12 07:08:06,655 :WARNING: TestFunctional test_1_rating_star: Adding review failed, star rating was not set correctly.
+2023-03-12 07:08:54,795 :INFO: TestFunctional test_1_rating_star: Passed!
+2023-03-12 07:09:26,303 :INFO: TestFunctional test_1_rating_star: Passed!
+2023-03-12 07:09:26,303 :INFO: TestFunctional test_1_rating_star: Passed!
+2023-03-12 07:11:34,423 :INFO: TestFunctional test_add_new_movie: Passed: Movie was successfully added
+2023-03-12 07:59:15,581 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-12 08:31:09,637 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-12 09:57:34,347 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 09:58:40,067 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 09:58:53,024 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 09:58:53,024 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-12 09:59:06,563 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 09:59:06,563 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-12 09:59:06,563 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-13 10:25:29,973 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:27:02,808 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:28:40,750 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:28:54,006 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:28:54,006 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:29:36,235 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:29:49,944 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 10:29:49,944 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-13 12:43:12,548 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:43:27,234 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:43:27,234 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:44:43,243 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-13 12:45:52,174 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:46:07,592 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:46:07,592 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:47:46,491 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:48:06,173 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:48:06,173 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:49:00,857 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:49:27,073 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 12:49:27,073 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 13:02:34,261 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-13 13:03:18,797 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 13:12:23,695 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 13:12:40,030 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 13:12:40,030 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-13 13:58:22,738 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-13 13:58:46,064 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-13 13:58:46,064 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-14 12:19:59,007 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:20:10,039 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:20:10,039 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:23:59,377 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:24:13,150 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:24:13,150 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:24:54,669 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:25:07,520 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:25:07,520 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:25:46,818 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:28:25,950 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:28:40,161 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:28:40,161 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:31:18,144 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:33:15,594 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:40:04,426 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-14 12:40:19,630 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-14 12:40:19,630 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-14 12:41:21,471 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:42:15,737 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:42:22,937 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:42:22,937 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:43:11,587 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:44:49,570 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:44:58,707 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:51:10,108 :INFO: TestAcceptance test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-14 12:51:58,224 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-14 12:54:30,996 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:54:43,199 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:54:43,199 :INFO: TestSmoke test_open_about_us_page: passed: the page is relevance
+2023-03-14 12:54:55,493 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:54:55,493 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:54:55,493 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:55:07,737 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:55:07,737 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:55:07,737 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:55:07,737 :INFO: TestSmoke test_open_add_movie: passed: the page is relevance
+2023-03-14 12:55:20,235 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:20,235 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:20,235 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:20,235 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:20,235 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:32,489 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:32,489 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:32,489 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:32,489 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:32,489 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:32,489 :INFO: TestSmoke test_open_connect_us: passed: the page is relevance
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:55:53,612 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:09,157 :INFO: TestSmoke test_open_google_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:23,098 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:56:37,518 :INFO: TestSmoke test_open_youtube_from_icon: Passed!
+2023-03-14 12:57:30,980 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-14 12:57:44,773 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-14 12:57:44,773 :INFO: TestSecurity test_uploading_gif_image: Passed: Movie wasn't successfully added
+2023-03-14 12:57:56,075 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:57:56,075 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:57:56,075 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:58:07,284 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:58:07,284 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:58:07,284 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:58:07,284 :INFO: TestSecurity test_existing_username_password: Passed
+2023-03-14 12:58:16,311 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:16,311 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:16,311 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:16,311 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:16,311 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:25,627 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:25,627 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:25,627 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:25,627 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:25,627 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:25,627 :INFO: TestSecurity test_correct_username_incorrect_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:40,907 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:50,027 :INFO: TestSecurity test_not_existing_username_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:58:59,186 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:08,369 :INFO: TestSecurity test_incorrect_username_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:23,710 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 12:59:32,980 :INFO: TestSecurity test_incorrect_username_not_existing_password: Passed
+2023-03-14 13:01:05,271 :INFO: TestAcceptance test_video_displayed: PASS: Video is displayed
+2023-03-14 13:02:02,709 :INFO: TestAcceptance test_add_new_movie: Passed: Movie was successfully added
+2023-03-14 13:02:52,257 :INFO: TestAcceptance test_alter_name_of_movie: Passed: Movie name was successfully updated to 'New Movie Name
+2023-03-14 13:03:33,196 :INFO: TestAcceptance test_scroll_to_top: Passed: The button worked
+2023-03-14 13:04:07,228 :INFO: TestAcceptance test_home_logo: PASS: Clicking on Home logo took user back to home page
+2023-03-14 13:05:10,393 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-14 13:05:22,224 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-14 13:05:22,224 :INFO: TestFunctional test_upload_doc: The image not legal
+2023-03-14 13:07:08,175 :INFO: TestFunctional test_1_rating_star: Passed!
+2023-03-14 13:08:19,296 :INFO: TestFunctional test_1_rating_star: Passed!
+2023-03-14 13:09:41,832 :INFO: TestFunctional test_part_of_search: passed: The number of movie names that there are the letters 'mo' is: 3
+2023-03-14 13:11:03,358 :INFO: TestFunctional test_add_connect: Passed: The form was submitted successfully
+2023-03-14 13:12:04,022 :INFO: TestFunctional test_search_capital_latter: Passed!
+2023-03-14 13:13:18,320 :INFO: TestFunctional test_verify_review_added: Passed!
+2023-03-14 13:15:16,901 :INFO: TestFunctional test_4_rating_star: Passed!
+2023-03-14 13:16:59,995 :INFO: TestFunctional test_add_new_movie: Passed: Movie was successfully added
